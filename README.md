@@ -17,7 +17,7 @@
 ```
 botToken: Token do bot que você criou no Portal de Desenvolvedores do Discord.
 mongoUrl: Seu link para se conectar com a MongoDB.
-botPrefix: Prefixo que o bot usará para responder os comandos. (que não tem nenhum no Bot além do de teste da minha base)
+botPrefix: Prefixo que o bot usará para responder os comandos.
 canalId: ID do canal do Discord que será usado como canal de 'Instagram'.
 ```
 
